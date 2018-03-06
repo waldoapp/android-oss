@@ -25,7 +25,7 @@ Before anything, you will need to configure your repo to properly upload the APK
 
 These steps have to be done only once for your repo, and only takes 2 minutes.
 They are based off of our [Gradle plugin](https://github.com/waldoapp/gradle-plugin).
-Ultimately, the steps will only be as big as [this commit](https://github.com/waldoapp/android-oss/commit/ae0e8c1bb03ffc83167547cc12f4de825aa93f97)
+Ultimately, the steps will only be as big as [this commit](https://github.com/waldoapp/android-oss/commit/309d02879122e2a2372a768f004a2ab89031e8e1)
 
 
 ### Register our plugin in your app
